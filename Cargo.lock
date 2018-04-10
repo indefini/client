@@ -1,4 +1,4 @@
-[root]
+[[package]]
 name = "client"
 version = "0.1.0"
 dependencies = [
@@ -30,3 +30,7 @@ name = "pkg-config"
 version = "0.3.8"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 
+[metadata]
+"checksum gcc 0.3.27 (registry+https://github.com/rust-lang/crates.io-index)" = "806e63121fbf30760b060a5fc2d1e9f47e1bd356d183e8870367c6c12cc9d5ed"
+"checksum libc 0.2.10 (registry+https://github.com/rust-lang/crates.io-index)" = "55f3730be7e803cf350d32061958171731c2395831fbd67a61083782808183e0"
+"checksum pkg-config 0.3.8 (registry+https://github.com/rust-lang/crates.io-index)" = "8cee804ecc7eaf201a4a207241472cc870e825206f6c031e3ee2a72fa425f2fa"
